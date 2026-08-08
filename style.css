@@ -3,6 +3,7 @@ img {
   height: auto;    /* Keeps proportions correct */
   display: block;  /* Removes unwanted whitespace beneath the image */
   width: 25%;     /* Ensures the image takes up the full width of its container */ 
+  margin: 0 auto;  /* Centers the image horizontally */
   /*transform: translate(850px, 40px);*/
 
 }
